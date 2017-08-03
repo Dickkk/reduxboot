@@ -21,7 +21,7 @@ class HeaderCom extends Component {
             <Navbar>
                 <Navbar.Header>
                     <Navbar.Brand>
-                        <a href="#"><img style={{width:150,paddingBottom:30}} src="http://fs.tangongye.com/upload/images/2015/12/16/FDD61FA4391771D5.png"   alt="东华软件" ></img></a>
+                        <a href="#"><img style={{width:150,paddingBottom:30}}   alt="Company" ></img></a>
                     </Navbar.Brand>
                 </Navbar.Header>
                 <Nav pullRight>
