@@ -38,7 +38,7 @@ class App extends Component {
             <div className={collapse ? "ant-layout-aside ant-layout-aside-collapse" : "ant-layout-aside"}>
                 <aside className="ant-layout-sider">
                     <div className="ant-layout-logo">
-                        <img style={{width:"100%"}} src="http://fs.tangongye.com/upload/images/2015/12/16/FDD61FA4391771D5.png"   alt="东华软件" />
+                        <img style={{width:"100%"}}    alt="Company" />
                     </div>
                     <div className="ant-aside-action" onClick={this.onCollapseChange.bind(this)}>
                         {collapse ? <Icon type="right" /> : <Icon type="left" />}
