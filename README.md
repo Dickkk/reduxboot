@@ -6,7 +6,14 @@ You can find the most recent version of this guide [here](https://github.com/fac
 
 
 ## Technology Stack
-react react-router redux superagent
+react 
+
+react-router 
+
+redux 
+
+superagent
+
 ##  UI Lib
 antd rc-component
 ## Boot Steps
