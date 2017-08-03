@@ -11,6 +11,7 @@ react react-router redux superagent
 antd rc-component
 ## Boot Steps
 > npm install
+
 > npm run start
 ## Backend
 This project is a frontend app， backend is restfull api server using resteasy。
